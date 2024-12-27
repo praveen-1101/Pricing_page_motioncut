@@ -12,3 +12,12 @@ This project is a responsive pricing page designed for an OTT (Over-the-Top) sub
 <li>Customizable: Easy to modify pricing details and plan features</li>
 <h2>
 Tech Stack
+</h2>
+<h3>Features</h3>
+<li><h4>HTML5</h4>:  Structuring the content of the pricing page.</li>
+<li><h4>CSS3</h4>: Styling for a modern and visually appealing design.</li>
+<li><h4>JavaScript</h4>: Adding interactivity and dynamic elements (optional).</li>
+<li><h4>Tailwind CSS</h4> (Optional): For streamlined and efficient styling.</li>
+
+
+
