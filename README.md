@@ -18,6 +18,13 @@ Tech Stack
 <li><h4>CSS3</h4>: Styling for a modern and visually appealing design.</li>
 <li><h4>JavaScript</h4>: Adding interactivity and dynamic elements (optional).</li>
 <li><h4>Tailwind CSS</h4> (Optional): For streamlined and efficient styling.</li>
+<h2>
+Tech Stack
+</h2>
+<h3>Backend (Optional):</h3>
+<li><h4>Node.js & Express.js</h4>: To handle dynamic pricing data and user subscriptions (if required).</li>
+<li><h4>Database (Optional)</h4>: MongoDB for storing subscription data.
+</li>
 
 
 
