@@ -14,16 +14,16 @@ This project is a responsive pricing page designed for an OTT (Over-the-Top) sub
 Tech Stack
 </h2>
 <h3>Features</h3>
-<li><h4>HTML5</h4>:  Structuring the content of the pricing page.</li>
-<li><h4>CSS3</h4>: Styling for a modern and visually appealing design.</li>
-<li><h4>JavaScript</h4>: Adding interactivity and dynamic elements (optional).</li>
-<li><h4>Tailwind CSS</h4> (Optional): For streamlined and efficient styling.</li>
+<li><h4 style="display:inline">HTML5</h4>:  Structuring the content of the pricing page.</li>
+<li><h4 style="display:inline">CSS3</h4>: Styling for a modern and visually appealing design.</li>
+<li><h4 style="display:inline">JavaScript</h4>: Adding interactivity and dynamic elements (optional).</li>
+<li><h4 style="display:inline">Tailwind CSS</h4> (Optional): For streamlined and efficient styling.</li>
 <h2>
 Tech Stack
 </h2>
 <h3>Backend (Optional):</h3>
-<li><h4>Node.js & Express.js</h4>: To handle dynamic pricing data and user subscriptions (if required).</li>
-<li><h4>Database (Optional)</h4>: MongoDB for storing subscription data.
+<li><h4 style="display:inline">Node.js & Express.js</h4>: To handle dynamic pricing data and user subscriptions (if required).</li>
+<li><h4 style="display:inline">Database (Optional)</h4>: MongoDB for storing subscription data.
 </li>
 
 
