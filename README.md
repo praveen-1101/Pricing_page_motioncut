@@ -28,5 +28,7 @@ This project is a responsive pricing page designed for an OTT (Over-the-Top) sub
 <h3>License</h3>
 This project is licensed under the MIT License.
 <h3>Contact</h3>
-<strong>For queries or collaboration, feel free to reach out:</strong>
+<strong>For queries or collaboration, feel free to reach out:</strong><pre>
+
 <li>GitHub: praveen-1101 </li>
+</pre>
