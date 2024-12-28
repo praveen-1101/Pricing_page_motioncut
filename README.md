@@ -25,6 +25,10 @@ Tech Stack
 <li>Node.js & Express.js: To handle dynamic pricing data and user subscriptions (if required).</li>
 <li>Database (Optional): MongoDB for storing subscription data.
 </li>
-
+<h3>Future Enhancements</h3>
+<li>Add a backend system to handle real-time pricing updates.</li>
+<li>Integrate a payment gateway for subscriptions.</li>
+<li>Include user authentication for managing subscriptions.</li>
+<li>Display user reviews or ratings for plans.</li>
 
 
