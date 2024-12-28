@@ -30,5 +30,5 @@ Tech Stack
 <li>Integrate a payment gateway for subscriptions.</li>
 <li>Include user authentication for managing subscriptions.</li>
 <li>Display user reviews or ratings for plans.</li>
-
-
+<h3>License</h3>
+This project is licensed under the MIT License.
