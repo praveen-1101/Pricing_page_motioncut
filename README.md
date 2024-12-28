@@ -10,9 +10,6 @@ This project is a responsive pricing page designed for an OTT (Over-the-Top) sub
 <li>Call-to-Action Buttons: Clear and accessible buttons to select and subscribe to a plan.</li>
 <li>Dynamic Highlights: Interactive design to emphasize selected or hovered plans.</li>
 <li>Customizable: Easy to modify pricing details and plan features</li>
-<h2>
-Tech Stack
-</h2>
 <h3>Features</h3>
 <li>HTML5: Structuring the content of the pricing page.</li>
 <li>CSS3: Styling for a modern and visually appealing design.</li>
