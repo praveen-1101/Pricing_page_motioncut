@@ -32,3 +32,6 @@ Tech Stack
 <li>Display user reviews or ratings for plans.</li>
 <h3>License</h3>
 This project is licensed under the MIT License.
+<h3>Contact</h3>
+<strong>For queries or collaboration, feel free to reach out:</strong>
+<li>GitHub: praveen-1101 </li>
